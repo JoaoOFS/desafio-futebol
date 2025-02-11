@@ -24,7 +24,6 @@ Este projeto é uma aplicação PHP que utiliza a API do **API-Football** para f
 - [Exemplos de Uso](#exemplos-de-uso)
 - [Contribuição](#contribuição)
   - [Fluxo de Trabalho para Contribuições](#fluxo-de-trabalho-para-contribuições)
-- [Licença](#licença)
 
 ---
 
